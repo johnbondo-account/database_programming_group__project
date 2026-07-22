@@ -1,6 +1,5 @@
 # Hospital Management System — Advanced SQL Programming
 ### Database Programming Assignment 1
-**Student ID:** [Your Student ID] | **Name:** [Your First Name]
 
 ---
 
