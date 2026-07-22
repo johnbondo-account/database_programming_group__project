@@ -305,10 +305,5 @@ database_programming_assignment1_studentID_firstname/
 
 ---
 
-## Academic Integrity Statement
-
-I confirm that this project is my own original work. All SQL queries, database designs, analysis, and documentation were written independently for the purpose of this university assignment. No part of this submission has been copied from another student or published source without proper citation. This project complies with the university's academic integrity policy.
-
----
 
 *Last updated: 2024 | Hospital Management System — Advanced SQL Programming Assignment*
