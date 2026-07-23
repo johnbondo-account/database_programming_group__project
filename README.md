@@ -277,20 +277,6 @@ database_programming_assignment1_studentID_firstname/
 │
 └── README.md                     ← This file
 ```
-
----
-
-## How to Run
-
-1. Open **MySQL Workbench** and connect to your local MySQL 8.0+ server.
-2. Run `SQL/create_database.sql` to create the database and all tables.
-3. Run `SQL/insert_data.sql` to populate the tables with sample data.
-4. Run `SQL/cte_queries.sql` to execute all CTE queries.
-5. Run `SQL/window_functions.sql` to execute all Window Function queries.
-6. Take screenshots of each result set and save them in the `Screenshots/` folder.
-
----
-
 ## References
 
 - Silberschatz, A., Korth, H. F., & Sudarshan, S. (2020). *Database System Concepts* (7th ed.). McGraw-Hill.
