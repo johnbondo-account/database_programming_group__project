@@ -1,4 +1,4 @@
-# Hospital Management System — Advanced SQL Programming
+# Hospital Management System
 ### Database Programming Assignment 1
 
 ---
